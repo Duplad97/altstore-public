@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "EscaPay",
-      "bundleIdentifier": "com.duplad.escapay",
+      "bundleIdentifier": "com.example.escapay",
       "developerName": "David Deak",
       "subtitle": "EscaPay - Privát iOS + Android app",
       "localizedDescription": "EscaPay app only available on AltStore.",
