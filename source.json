@@ -8,9 +8,15 @@
       "developerName": "David Deak",
       "subtitle": "EscaPay - Privát iOS + Android app",
       "localizedDescription": "EscaPay app only available on AltStore.",
-      "version": "1.0.0",
-      "versionDate": "2026-01-20",
-      "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.0/Runner.app.zip",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-01-20",
+          "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.0/Runner.app.zip",
+          "localizedDescription": "Initial release",
+          "size": 41418752
+        }
+      ],
       "iconURL": "https://raw.githubusercontent.com/Duplad97/altstore-public/refs/heads/main/icon.png"
     }
   ]
