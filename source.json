@@ -12,9 +12,9 @@
         {
           "version": "1.0.0",
           "date": "2026-01-20",
-          "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.0/Runner.app.zip",
+          "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.0/Payload.ipa",
           "localizedDescription": "Initial release",
-          "size": 41418752
+          "size": 40800092
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/Duplad97/altstore-public/refs/heads/main/icon.png"
