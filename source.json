@@ -6,9 +6,16 @@
       "name": "EscaPay",
       "bundleIdentifier": "com.example.escapayapp",
       "developerName": "David Deak",
-      "subtitle": "EscaPay - Privát iOS + Android app",
+      "subtitle": "EscaPay - Privát iOS app",
       "localizedDescription": "EscaPay app only available on AltStore.",
       "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-02-03",
+          "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.2/Payload.ipa",
+          "localizedDescription": "Initial release",
+          "size": 18161336
+        },
         {
           "version": "1.0.1",
           "date": "2026-01-23",
