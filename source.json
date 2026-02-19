@@ -10,6 +10,13 @@
       "localizedDescription": "EscaPay app only available on AltStore.",
       "versions": [
         {
+          "version": "1.0.3",
+          "date": "2026-02-19",
+          "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.3/Payload.ipa",
+          "localizedDescription": "Működik, töltsd le fasza lesz",
+          "size": 18266193
+        },
+        {
           "version": "1.0.2",
           "date": "2026-02-03",
           "downloadURL": "https://github.com/Duplad97/altstore-public/releases/download/v1.0.2/Payload.ipa",
